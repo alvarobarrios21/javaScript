@@ -14,6 +14,12 @@ let total = 0;
 let opcionErrorRopa = false;
 let opcionErrorEnvio = false;
 
+function saludar(nombre) {
+    alert("Hola, Bienvenido a keniweers")
+} 
+saludar("Bienvenido a Keniweers")
+
+
 
 do {
     let ropaAcomprar;
@@ -98,7 +104,14 @@ console.log ("flag", flag);
 } while (flag != `N` );
 
 
-console.log("total", total)
+console.log("total", total);
+
+
+
+
+
+
+
 
 
 
