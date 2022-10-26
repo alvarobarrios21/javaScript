@@ -1,3 +1,10 @@
+function saludar(nombre) {
+    alert("Hola, Bienvenido a keniweers")
+} 
+saludar("Bienvenido a Keniweers")
+
+
+
 const precioRemeras = 1000;
 const precioBuzos = 1500;
 const precioGorras = 800;
@@ -14,10 +21,7 @@ let total = 0;
 let opcionErrorRopa = false;
 let opcionErrorEnvio = false;
 
-function saludar(nombre) {
-    alert("Hola, Bienvenido a keniweers")
-} 
-saludar("Bienvenido a Keniweers")
+
 
 
 
